@@ -37,10 +37,11 @@ Me chamo João Victor da Silva, sou natural de Santa Catarina, Brasil. Concluí 
 
 #### Estatísticas:
 <img 
-    alt="left"
+    alt="Estatísticas de linguagens"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox&custom_title=Uso Linguagens:&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorrsilva&layout=compact&theme=gruvbox&custom_title=Uso%20Linguagens:&langs_count=6"
 />
+
 
 #
